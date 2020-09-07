@@ -1,0 +1,7 @@
+C:\VS2019\DistanceConverter\DistanceConverter\bin\Debug\DistanceConverter.exe.config
+C:\VS2019\DistanceConverter\DistanceConverter\bin\Debug\DistanceConverter.exe
+C:\VS2019\DistanceConverter\DistanceConverter\bin\Debug\DistanceConverter.pdb
+C:\VS2019\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.csprojAssemblyReference.cache
+C:\VS2019\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.csproj.CoreCompileInputs.cache
+C:\VS2019\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.exe
+C:\VS2019\DistanceConverter\DistanceConverter\obj\Debug\DistanceConverter.pdb
